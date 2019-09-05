@@ -2,6 +2,9 @@
 # Cookbook Name:: chef_packages_install
 # Recipe:: default
 #
+# License and Authors
+# Authors: https://github.com/adamsalowitz
+# License: CC0 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 
 package ['tree'] do
