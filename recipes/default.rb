@@ -1,10 +1,8 @@
 #
-# Cookbook Name:: detwa_packages
+# Cookbook Name:: chef_packages_install
 # Recipe:: default
 #
-# Copyright 2017, YOUR_COMPANY_NAME
-#
-# All rights reserved - Do Not Redistribute
+
 
 package ['tree'] do
 	  action :upgrade
